@@ -15,7 +15,7 @@ Link download: https://www.eclipse.org/downloads/
 
 3. Clone source code from github
 
-link: https://github.com/gamnguyen9999/gamnguyen.github.io
+Link: https://github.com/gamnguyen9999/gamnguyen.github.io
 
 4. Add libs to project
 
